@@ -2,6 +2,8 @@
 
 This project demonstrates my skills in **data visualization and business intelligence** using Tableau. It focuses on analyzing key human resources (HR) metrics to support data-driven HR decision-making.
 
+![image alt](https://github.com/GitanshRaj/HR-Analytics-Dashboard-Project-Tableau-/blob/7c266400b20f80a795ad8886ddd3cfc31f9e3ff5/Dashboard%20ss.png)
+
 ---
 
 ## 🔍 Project Overview
